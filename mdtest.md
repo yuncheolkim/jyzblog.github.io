@@ -21,7 +21,8 @@
   2. you
 2. you
 
-
+* :one: im one
+* :two: its to
 > quote2 sdfsdf **go** *wo
 
 
@@ -55,4 +56,4 @@ public class First{
 And, of course emoji! :sparkles: :camel: :boom:
 
 :smile:
-@960b3b37c507e750adde27b934a82614056e7a67
+http://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/generations.html#distribution_lifetimes
