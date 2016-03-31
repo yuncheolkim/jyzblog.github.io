@@ -1,3 +1,9 @@
-**hd**  
+---
+layout: post
+title: 第一篇
+tag: life
+---
+
+>不成功，便成仁
+
 # h1
-## h2
