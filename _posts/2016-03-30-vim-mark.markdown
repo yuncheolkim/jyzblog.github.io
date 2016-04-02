@@ -3,7 +3,7 @@ layout: post
 title: vim mark
 tags: [vim, 技术]
 tagline: "Supporting tagline"
-categories: 技术
+categories: pc
 ---
 
 >不成功，便成仁
