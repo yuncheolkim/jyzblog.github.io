@@ -1,8 +1,9 @@
 ---
 layout: post
 title: vim mark
-tag: ［vim,技术］
-categories: 生活
+tags: [vim, 技术]
+tagline: "Supporting tagline"
+categories: 技术
 ---
 
 >不成功，便成仁

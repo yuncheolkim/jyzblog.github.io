@@ -8,6 +8,7 @@
 # Site settings
 permalink: /:categories/:year/:month/:day/:title
 title: 无处藏身
+tagline: Site Tagline
 email: yuncheolkim@163.com
 description: > # this means to ignore newlines until "baseurl:"
   你好！
@@ -23,3 +24,5 @@ github_username:  yuncheolkim
 markdown: kramdown
 kramdown:
   input: GFM
+ME:
+  tags_path : /tags.html

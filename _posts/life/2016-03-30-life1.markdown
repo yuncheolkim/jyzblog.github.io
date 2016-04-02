@@ -1,8 +1,8 @@
 ---
 layout: post
-title: vim mark
+title: life 1
 tag: life
-categories: 生活
+categories: life
 ---
 
 >不成功，便成仁
