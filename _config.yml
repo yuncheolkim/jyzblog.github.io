@@ -6,15 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+permalink: /:categories/:year/:month/:day/:title
 title: 无处藏身
 email: yuncheolkim@163.com
 description: > # this means to ignore newlines until "baseurl:"
   你好！
   世界！
+production_url : http://yuncheolkim.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yuncheolkim.github.io" # the base hostname & protocol for your site
 twitter_username: Yuncheolkim1
 github_username:  yuncheolkim
+
 
 # Build settings
 markdown: kramdown

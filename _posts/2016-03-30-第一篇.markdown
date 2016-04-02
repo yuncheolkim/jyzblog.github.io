@@ -1,7 +1,8 @@
 ---
 layout: post
 title: vim mark
-tag: vim,技术
+tag: ［vim,技术］
+categories: 生活
 ---
 
 >不成功，便成仁
